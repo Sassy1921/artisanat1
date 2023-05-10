@@ -1,0 +1,3 @@
+artisan{id=1, name='Ahmed', dateNaissance=Fri Jun 15 00:00:00 WET 1990, gender='M', product_id=2, specialty='Pottery', tel=612345678, address='Rabat', experience=5}
+artisan{id=2, name='Amina', dateNaissance=Sun Mar 10 00:00:00 WET 1985, gender='F', product_id=1, specialty='Carpentry', tel=654321098, address='Casablanca', experience=8}
+artisan{id=3, name='Mohamed', dateNaissance=Wed Sep 22 00:00:00 WET 1982, gender='M', product_id=3, specialty='Embroidery', tel=666666666, address='Marrakech', experience=12}
